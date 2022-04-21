@@ -53,6 +53,36 @@ pip install requests
 sudo python3 metacyber.py
 ```
 
+
+## Install In Windows
+
+### / Windows
+
+```bash
+
+pip install colorama
+
+pip install requests
+
+```
+
+## Installation orginal
+
+### / Termux
+
+```bash
+
+git clone https://github.com/drcayber/instagram-hack
+
+cd instagram-hack
+
+pip install colorama
+
+pip install requests
+
+python3 metacyber.py
+```
+
 ###  Follow us on
 
 
